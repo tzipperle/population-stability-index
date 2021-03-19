@@ -18,3 +18,7 @@ Numpy
 * https://www.lexjansen.com/wuss/2017/47_Final_Paper_PDF.pdf
 * https://www.listendata.com/2015/05/population-stability-index.html
 * https://www.quora.com/What-is-population-stability-index
+
+
+### To read
+* https://towardsdatascience.com/comprehensive-guide-for-ml-model-monitoring-4ab4f66faf70
